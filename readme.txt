@@ -7,7 +7,7 @@ Requires at least: 3.8
 Tested up to: 4.2.2
 Contributors: Renato Alves
 Donate link: http://ralv.es
-Stable tag: trunk
+Stable tag: 1.0
 License: GPL-2.0+
 
 WP Mailtrap is a simple plugin to test emails in WordPress with the Mailtrap API. 
